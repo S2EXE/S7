@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/S2EXE/S7/refs/heads/main/S7brookhaven.lua")()
