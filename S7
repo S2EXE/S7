@@ -1,1 +1,6 @@
+--ماب البيوت
 loadstring(game:HttpGet"https://raw.githubusercontent.com/S2EXE/S7/refs/heads/main/S7brookhaven.lua")()
+
+-- شاليه محمد
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/S2EXE/S7/refs/heads/main/shalyh%20m7mdS7.lua")()
