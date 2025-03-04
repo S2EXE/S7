@@ -3,4 +3,4 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/S2EXE/S7/refs/heads/ma
 
 -- شاليه محمد
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/S2EXE/S7/refs/heads/main/shalyh%20m7mdS7.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/S2EXE/S7/refs/heads/main/shalyh%20m7mdS7%20(2).lua")()
