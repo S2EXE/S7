@@ -8,5 +8,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/S2EXE/S7/refs/heads/m
 
 --مب السمك
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/S2EXE/S7/refs/heads/main/S777777777.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/S2EXE/S7/refs/heads/main/fischS7hub.lua")()
 
